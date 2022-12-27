@@ -1,0 +1,1 @@
+A terribly written implementation of pentago in python
